@@ -41,8 +41,8 @@ X.ZIndex = 2
 X.Font = Enum.Font.Unknown
 X.Text = "X:"
 X.TextColor3 = Color3.fromRGB(255, 255, 255)
-X.TextSize = 14.000
-X.TextStrokeTransparency = 0.560
+X.TextSize = 10.000
+X.TextStrokeTransparency = 1
 
 DropShadowHolder.Name = "DropShadowHolder"
 DropShadowHolder.Parent = X
@@ -75,8 +75,8 @@ Y.ZIndex = 2
 Y.Font = Enum.Font.Unknown
 Y.Text = "Y:"
 Y.TextColor3 = Color3.fromRGB(255, 255, 255)
-Y.TextSize = 14.000
-Y.TextStrokeTransparency = 0.560
+Y.TextSize = 10.000
+Y.TextStrokeTransparency = 1
 
 DropShadowHolder_2.Name = "DropShadowHolder"
 DropShadowHolder_2.Parent = Y
@@ -110,8 +110,8 @@ Z.ZIndex = 2
 Z.Font = Enum.Font.Unknown
 Z.Text = "Z:"
 Z.TextColor3 = Color3.fromRGB(255, 255, 255)
-Z.TextSize = 14.000
-Z.TextStrokeTransparency = 0.560
+Z.TextSize = 10.000
+Z.TextStrokeTransparency = 1
 
 xcord.Name = "xcord"
 xcord.Parent = Frame
