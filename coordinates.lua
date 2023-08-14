@@ -28,7 +28,7 @@ Frame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Frame.BackgroundTransparency = 0.900
 Frame.BorderColor3 = Color3.fromRGB(255, 255, 255)
 Frame.Draggable = true
-Frame.Position = UDim2.new(0, 50, 0, 800)
+Frame.Position = UDim2.new(0, 70, 0, 800)
 Frame.Size = UDim2.new(0, 161, 0, 100)
 
 X.Name = "X"
